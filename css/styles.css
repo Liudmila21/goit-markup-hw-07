@@ -217,7 +217,7 @@ body {
   content: "";
 
   position: absolute;
-  bottom: 0px;
+  bottom: -1px;
 
   display: block;
   width: 100%;
